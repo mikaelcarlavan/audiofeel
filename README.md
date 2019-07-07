@@ -4,4 +4,4 @@ Audiofeel is open-source software for audio signal processing. It includes modul
 * Documentation: https://docs.audiofeel.org/
 * Source code: https://github.com/mrAgan/audiofeel
 
-Audiofeel depends on NumPy, which provides convenient and fast N-dimensional array manipulation. Audiofeel is built to work with NumPy arrays, and provides many user-friendly and efficient numerical routines such as routines for audio signal processing. 
+Audiofeel depends on NumPy, which provides convenient and fast N-dimensional array manipulation. Audiofeel is built to work with NumPy arrays, and provides many user-friendly and efficient numerical routines for audio signal processing. 
