@@ -1,2 +1,2 @@
-# audiofeel-player
-Audio player for NumPy arrays
+# Audiofeel
+Audiofeel is open-source software for audio signal processing.
