@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: audiofeel
+Version: 0.0.1
+Summary: Audiofeel is open-source software for audio signal processing
+Home-page: https://github.com/mrAgan/audiofeel
+Author: Simon Henrot & Mikael Carlavan
+Author-email: contact@mika-carl.fr
+License: UNKNOWN
+Description: # Audiofeel
+        Audiofeel is open-source software for audio signal processing. It includes modules for input-output, inline audio player, and more.
+        * Website: https://www.audiofeel.org/
+        * Documentation: https://docs.audiofeel.org/
+        * Source code: https://github.com/mrAgan/audiofeel
+        
+        Audiofeel depends on NumPy, which provides convenient and fast N-dimensional array manipulation. Audiofeel is built to work with NumPy arrays, and provides many user-friendly and efficient numerical routines for audio signal processing. 
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
