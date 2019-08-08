@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="audiofeel-audiofeel",
+    name="audiofeel",
     version="0.0.1",
     author="Simon Henrot & Mikael Carlavan",
     author_email="contact@mika-carl.fr",
